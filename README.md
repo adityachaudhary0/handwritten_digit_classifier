@@ -47,8 +47,3 @@ python evaluate.py
 ## Results
 The model achieves an accuracy of over 98% on the MNIST test dataset by using advanced regularization techniques and data augmentation.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
